@@ -1,0 +1,247 @@
+﻿#EXTM3U
+
+
+ #EXTINF:0,fox sport 506 [COLOR blue] may take more than 1 click [/COLOR]
+ http://motorsport.hopto.org:8080/
+ #EXTINF:0,fox sport west
+ rtmp://kv2.ts33.net/sat/us011 live=1
+ #EXTINF:0,diema sport 2
+ http://lag1.tv-mobile.org/prgt.m3u8
+ #EXTINF:0,Sport Ring
+ http://lag1.tv-mobile.org/prgr.m3u8
+ #EXTINF:0,Nova Sport
+ http://lag1.tv-mobile.org/prgp.m3u8
+ #EXTINF:0,WIN SPORTS
+ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
+ #EXTINF:0,William Hill Races.
+ rtsp://whill.tscplayer.net/bettingshop/stream500
+ #EXTINF:0,TVM Sports US English Maltese
+ http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on
+ #EXTINF:0,TVM 2 Sports US English Maltese
+ http://bcliveuniv-lh.akamaihd.net/i/TVM2DVR_1@326354/master.m3u8
+ #EXTINF:0,Auto Motor Sport
+ http://lag2.tv-mobile.org/prgu.m3u8
+ #EXTINF:0,Nas Futbol
+ http://bit.do/bkWJh
+ #EXTINF:0,Sport
+ http://bit.do/bkWFG
+ #EXTINF:0,Kanalturk Turkey
+ http://origin.live.web.tv.streamprovider.net/streams/1a38fbc57c3fcf24a4b401d9d6d327be_live_0_0/index.m3u8
+ #EXTINF:0,Kanalturk Turkey HD
+ http://kanalturk-live.ercdn.com/kanalturk.m3u8
+ #EXTINF:0,Sport Klub 1
+ http://77.76.140.251/prgr.m3u8
+ #EXTINF:0,Sport Klub 2
+ http://77.76.140.251/prgs.m3u8
+ #EXTINF:0,Sport Klub 3
+ http://77.76.140.251/prgt.m3u8
+ #EXTINF:0,Football 1 rus
+ http://bit.do/bjUVu
+ #EXTINF:0,Sport Plus
+ http://bit.do/bkWJv
+ #EXTINF:0,Sport 1 ua
+ http://bit.do/bjUVE
+ #EXTINF:0,KHL SPORT HD
+ http://fe-nw.svc.iptv.rt.ru/hls/CH_C02_KHLHD/variant.m3u8?version=2
+ #EXTINF:0,KHL SPORT HD
+ http://bit.do/bk2Ke
+ #EXTINF:0,KHL SPORT SD
+ http://j.mp/ZCH_C01_KHL_sly
+ #EXTINF:0,NFL Network Sports HD
+ http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
+ #EXTINF:0,NFL Now Sports HD
+ http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+ #EXTINF:0,SILK SPORT 1
+ http://188.93.94.133/silk_football/index.m3u8
+ #EXTINF:0,SILK SPORT 2 HD
+ http://188.93.94.133/silk_sport/index.m3u8
+ #EXTINF:0,SILK SPORT 3 HD
+ http://188.93.94.133/silk_sport2/index.m3u8
+ #EXTINF:0,SUPER SPORT 1 Albania HD
+ http://81.7.13.162/hls/ss1/index.m3u8
+ #EXTINF:0,SUPER SPORT NEWS Albania
+ http://80.80.160.201/http_livestr.m3u8?id=ssnews
+ #EXTINF:0,BIG TEN NETWORK HD
+ http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+ #EXTINF:0,BIG TEN NETWORK SD
+ http://xrxs.net/video/live-btn-1240.m3u8
+ #EXTINF:0,BASKET UNI. (Arizona)
+ http://xrxs.net/video/live-p12ariz-1164.m3u8
+ #EXTINF:0,BASKET UNI. National HD
+ http://xrxs.net/video/live-p12netw-2328.m3u8
+ #EXTINF:0,BASKET UNI.(Bay Area) HD
+ http://xrxs.net/video/live-p12baya-2328.m3u8
+ #EXTINF:0,BASKET UNI.(Moutain) HD
+ http://xrxs.net/video/live-p12moun-2328.m3u8
+ #EXTINF:0,BASKET UNI.(Los Angeles) HD
+ http://xrxs.net/video/live-p12losa-2328.m3u8
+ #EXTINF:0,BASKET UNI.(Oregon) HD
+ http://xrxs.net/video/live-p12oreg-2328.m3u8
+ #EXTINF:0,BASKET UNI.(Washington)
+ http://xrxs.net/video/live-p12wash-1164.m3u8
+ #EXTINF:0,PAC 12 Arizona HD
+ http://xrxs.net/video/live-p12ariz-4728.m3u8
+ #EXTINF:0,Pac 12 National HD
+ http://xrxs.net/video/live-p12netw-4728.m3u8
+ #EXTINF:0,PAC 12 Mountain HD
+ http://xrxs.net/video/live-p12moun-4728.m3u8
+ #EXTINF:0,PAC-12 Net. (Bay Area) HD
+ http://xrxs.net/video/live-p12baya-4728.m3u8
+ #EXTINF:0,PAC-12 Net. (Los Angeles) HD
+ http://xrxs.net/video/live-p12losa-2328.m3u8
+ #EXTINF:0,PAC-12 Net. (Oregon) HD
+ http://xrxs.net/video/live-p12oreg-4728.m3u8
+ #EXTINF:0,PAC-12 Net. (Washington) HD
+ http://xrxs.net/video/live-p12wash-4728.m3u8
+ #EXTINF:0,PAC 12 Arizona HD [COLOR purple]backup links [/COLOR]
+ http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_4728_av-p.m3u8
+ #EXTINF:0,PAC 12 Network HD [COLOR purple]backup links [/COLOR]
+ http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_2328_av-p.m3u8
+ #EXTINF:0,PAC 12 Bay Area HD [COLOR purple]backup links [/COLOR]
+ http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/index_2328_av-p.m3u8
+ #EXTINF:0,PAC 12 Los Angeles HD [COLOR purple]backup links [/COLOR]
+ http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/index_2328_av-p.m3u8
+ #EXTINF:0,PAC 12 Oregon HD [COLOR purple]backup links [/COLOR]
+ http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/index_2328_av-p.m3u8
+ #EXTINF:0,IDMAN TV SPORT english prem football
+ http://149.255.152.70:80/idman/index.m3u8
+ #EXTINF:0,SPORT TV 3
+ rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+ #EXTINF:0,SPORTV AMERICAS
+ http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+ #EXTINF:0,VIASAT SPORT
+ http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
+ #EXTINF:0,Viasat Sport [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-dv.svc.iptv.rt.ru/hls/CH_C01_VIASATSPORT/variant.m3u8?version=2
+ #EXTINF:0,Viasat Sport [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://bit.do/bjUUV
+ #EXTINF:0,NTV SPORT
+ http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
+ #EXTINF:0,Futbol
+ http://bit.do/bkWHw
+ #EXTINF:0,Futbol2
+ http://bit.do/bkWHZ
+ #EXTINF:0,Extreme Sports [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://bit.do/bkWEL
+ #EXTINF:0,NTV + Tennis
+ http://bit.do/bkWHE
+ #EXTINF:0,NTVPLUSBASKETBOL
+ http://bit.do/bkWHM
+ #EXTINF:0,CNOPT SPORT
+ http://j.mp/ZCH_C05_SPORT_sly
+ #EXTINF:0,CNOPT SPORT 1
+ http://j.mp/ZCH_C02_SPORT1_sly
+ #EXTINF:0,BEIN 1 english HD
+ http://lihattv.toh.info/jhos/beib1_5/-/playlist.m3u8
+ #EXTINF:0,BEIN 2 english HD
+ http://lihattv.toh.info/jhos/beib2_5/-/playlist.m3u8
+ #EXTINF:0,BEIN PREMIERE english HD
+ http://lihattv.toh.info/jhos/beib3_5/-/playlist.m3u8
+ #EXTINF:0,BEIN 1 HD
+ http://lihattv.toh.info/jhos/beib1.m3u8
+ #EXTINF:0,BEIN 2 HD
+ http://lihattv.toh.info/jhos/beib2.m3u8
+ #EXTINF:0,BEIN 3 HD
+ http://lihattv.toh.info/jhos/beib3.m3u8
+ #EXTINF:0,SKY SPORTS 1 UK
+ http://bit.do/bk4a2
+ #EXTINF:0,SKY SPORTS 1 UK
+ rtmp://89.248.174.121/live playpath=1skys  swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys1&vw=600&vh=450
+ #EXTINF:0,SKY SPORTS 1 UK
+ http://bit.do/bk2zY
+ #EXTINF:0,SKY SPORTS 2 UK
+ http://bit.do/bk4a4
+ #EXTINF:0,SKY SPORTS 2 UK
+ rtmp://89.248.174.121/live playpath=2skys  swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys2&vw=600&vh=450
+ #EXTINF:0,SKY SPORTS 2 UK
+ http://bit.do/bk2z5
+ #EXTINF:0,SKY SPORTS 3 UK
+ http://bit.do/bk4a5
+ #EXTINF:0,SKY SPORTS 3 UK
+ rtmp://89.248.174.121/live playpath=3skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys3&vw=600&vh=450
+ #EXTINF:0,SKY SPORTS 3 UK
+ http://bit.do/bk2z8
+ #EXTINF:0,SKY SPORTS 4 UK
+ http://bit.do/bk4a8
+ #EXTINF:0,SKY SPORTS 4 UK
+ rtmp://89.248.174.121/live playpath=4skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys4&vw=600&vh=450
+ #EXTINF:0,SKY SPORTS 4 UK
+ rtmp://89.248.169.50/live playpath=4skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys4&vw=600&vh=450
+ #EXTINF:0,SKY SPORTS 5 UK
+ http://bit.do/bk4a9
+ #EXTINF:0,SKY SPORTS 5 UK
+ rtmp://89.248.174.38/live playpath=5skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys5&vw=600&vh=450
+ #EXTINF:0,SKY SPORTS 5 UK
+ rtmp://89.248.169.50/live playpath=5skys swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys5&vw=600&vh=450
+ #EXTINF:0,Eurosport HD [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://bit.do/bkWAC
+ #EXTINF:0,Eurosport [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-sth.svc.iptv.rt.ru/hls/CH_C06_EUROSPORT/variant.m3u8?version=2
+ #EXTINF:0,Eurosport [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://bit.do/bkWB2
+ #EXTINF:0,Eurosport2 [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-ural.svc.iptv.rt.ru/hls/CH_C04_EUROSPORT2/variant.m3u8?version=2
+ #EXTINF:0,Eurosport2 [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://bit.do/bkWF3
+ #EXTINF:0,Eurosport news [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-mos.svc.iptv.rt.ru/hls/CH_C06_EURONEWS/variant.m3u8?version=2
+ #EXTINF:0,BT SPORT 1 UK
+ http://bit.do/bmtqM
+ #EXTINF:0,BT SPORT 1 UK
+ rtmpe://134.19.185.202:1935/livedge playpath=mamahdbtsport1 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskynews&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
+ #EXTINF:0,BT SPORT 1 UK 
+ rtmp://89.248.174.38/live playpath=1bt swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys5&vw=600&vh=450
+ #EXTINF:0,BT SPORT 2 UK
+ http://bit.do/bmtqQ
+ #EXTINF:0,BT SPORT 2 UK
+ rtmpe://134.19.185.202:1935/livedge playpath=mamahdbtsport2 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbtsport2&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47
+ #EXTINF:0,BT SPORT 2 UK 
+ rtmp://89.248.174.38/live playpath=2bt  swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys5&vw=600&vh=450
+ #EXTINF:0,Real Madrid TV
+ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+ #EXTINF:0,canal+ sport france HD [COLOR red] takes time to load [/COLOR]
+ http://bit.do/bjiEo
+ #EXTINF:0,sports time tv 1
+ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel1_1200.mp4.m3u8
+ #EXTINF:0,sports time tv 2
+ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
+ #EXTINF:0,sports time tv 3
+ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel3_1200.mp4.m3u8
+ #EXTINF:0,sports time tv 4
+ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel4_1200.mp4.m3u8
+ #EXTINF:0,sports time tv 5
+ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel5_1200.mp4.m3u8
+ #EXTINF:0,sports time tv 6
+ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel6_1200.mp4.m3u8
+ #EXTINF:0,sports time tv 7
+ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel7_1200.mp4.m3u8 
+ #EXTINF:0,BMW CHANNEL Italia
+ mms://100automoto.tv/bmw
+ #EXTINF:0,PORSCHE CHANNEL
+ mms://100automoto.tv/channel_porsche
+ #EXTINF:0,AutoSport TV
+ mms://100automoto.tv/100livesport
+ #EXTINF:0,Dubai Racing (Horses)
+ http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8
+ #EXTINF:0,MOLDOVA SPORT HD
+ http://87.248.160.8/edge/smil:boet/playlist.m3u8
+ #EXTINF:0,SPORTS TV
+ http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
+ #EXTINF:0,Rai Sport 1
+ mmsh://212.162.68.163:80/raisport+
+ #EXTINF:0,Rai Sport 2
+ mmsh://212.162.68.163:80/raisport2
+ #EXTINF:0,Sport HD rus
+ http://bit.do/bkWKp
+ #EXTINF:0,KAZsport
+ http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+ #EXTINF:0,Tile Sport
+ rtmp://78.47.151.114/tilesport playpath=movie1 swfUrl=http://www.tilesport.tv/jwplayer/player.swf live=1 pageUrl=http://tv-live.in/wp-content/uploads/tv-online/Channel/Greek/channel/TileSport%20TV%20-%20link2.htm
+ #EXTINF:0,NTV Spor Turkey
+ http://ow.ly/S2V2p
+ #EXTINF:0,Al-Iraqiya Sports
+ http://ow.ly/S2UDA
+ #EXTINF:0,Fight Sports
+ http://lihattv.wha.la/jhos/fight/-/playlist.m3u8
+ #EXTINF:0,Telekanal Futbol
+ http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8

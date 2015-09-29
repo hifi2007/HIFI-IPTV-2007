@@ -1,0 +1,124 @@
+﻿#EXTM3U
+
+ #EXTINF:0,M2O Music
+ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+ #EXTINF:0,clubbing filmon tv
+ http://204.107.26.252:1935/live/691.high.stream/playlist.m3u8
+ #EXTINF:0,Monte Carlo TV
+ http://bit.do/bk2N9
+ #EXTINF:0,Soy FM TV
+ http://bit.do/bk2PU
+ #EXTINF:0,Dream TV turk
+ http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+ #EXTINF:0,Real Hip Hop Network
+ http://rhn.tulix.tv/live/Stream1/playlist.m3u8
+ #EXTINF:0,ReTV Jamaica
+ http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
+ #EXTINF:0,The Voice music
+ http://lag2.tv-mobile.org/prgm.m3u8
+ #EXTINF:0,A one UA
+ http://bit.do/bkWBx
+ #EXTINF:0,M1 music
+ http://bit.do/bjUTc
+ #EXTINF:0,MUSIC BOX
+ http://bit.do/bjvjf
+ #EXTINF:0,MUSIC BOX
+ http://fe-nw.svc.iptv.rt.ru/hls/CH_C04_MUSICBOXTV/variant.m3u8?version=2
+ #EXTINF:0,Virgin TV 1
+ http://fms.105.net:1935/live/virgin1/playlist.m3u8
+ #EXTINF:0,Gold TV HD
+ http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
+ #EXTINF:0,UMORT Box MUSIC RUS
+ http://fe-mos.svc.iptv.rt.ru/hls/CH_C05_UMORTV/variant.m3u8?version=2
+ #EXTINF:0,RU MUSIC
+ http://bit.do/bjUV4
+ #EXTINF:0,CTC Love MUSIC RUS
+ http://j.mp/ZCH_C03_STSLOVE_sly
+ #EXTINF:0,O-TV Music rus
+ http://bit.do/bjUVY
+ #EXTINF:0,MCM TOP rus
+ http://188.17.143.39/hls/CH_C03_MTV/variant.m3u8?version=2
+ #EXTINF:0,MTV RUS
+ http://188.17.143.39/hls/CH_C03_MTV/variant.m3u8?version=2
+ #EXTINF:0,ESKA Best Music HD
+ rtmp://stream.smcloud.net/live2/best/best_720p
+ #EXTINF:0,ESKA TV Music
+ http://stream.smcloud.net/live/eskatv/aylist.m3u8
+ #EXTINF:0,ESKA VOX HD
+ http://stream.smcloud.net/live2/vox/vox_720p/playlist.m3u8
+ #EXTINF:0,ESKA ROCK
+ rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
+ #EXTINF:0,ESKA Wawa Music HD
+ rtmp://stream.smcloud.net/live2/wawa/wawa_720p
+ #EXTINF:0,POLO Party Polska HD
+ http://stream.smcloud.net/live2/polo_party/polo_party_720p/playlist.m3u8
+ #EXTINF:0,Heavy Metal Television HD
+ http://bit.do/bjVoP
+ #EXTINF:0,VH1
+ http://bit.do/bkWFk
+ #EXTINF:0,VH1 Classic
+ http://fe-mos.svc.iptv.rt.ru/hls/CH_C03_VH1CLASSIC/variant.m3u8?version=2
+ #EXTINF:0,VH1 Classic [COLOR red] link 2[/COLOR]
+ http://bit.do/bkWDb
+ #EXTINF:0,EuropaPlus Music
+ rtmp://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp
+ #EXTINF:0,Europa Plus TV
+ http://fe-mos.svc.iptv.rt.ru/hls/CH_C01_EUROPAPLUSTV/variant.m3u8?version=2
+ #EXTINF:0,Capital TV
+ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+ #EXTINF:0,BRASIL First Music HD
+ rtmp://109.239.142.62/live/livestream3
+ #EXTINF:0,AKA music channel
+ http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ #EXTINF:0,Planet POP
+ http://bit.do/bcLgx
+ #EXTINF:0,VM Music
+ http://bit.do/bcLf8
+ #EXTINF:0,Amazing music channel
+ http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+ #EXTINF:0,MuzTV (Azerbaijan)
+ rtmp://85.132.78.6:1935/live/muztv.stream
+ #EXTINF:0,4 music
+ http://alturl.com/ukwxg
+ #EXTINF:0,MTV Hits
+ http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_MTVHITS/variant.m3u8?version=2
+ #EXTINF:0,MTV Rocks
+ http://fe-nw.svc.iptv.rt.ru/hls/CH_C01_MTVROCKS/variant.m3u8?version=2
+ #EXTINF:0,MTV Dance
+ http://fe-mos.svc.iptv.rt.ru/hls/CH_C06_MTVDANCE/variant.m3u8?version=2
+ #EXTINF:0,MTV Live HD
+ http://bit.do/bkWAM
+ #EXTINF:0,THE BOX
+ http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8
+ #EXTINF:0,HEART TV
+ http://bit.do/bcKMN
+ #EXTINF:0,NOW THATS WHAT I CALL MUSIC TV
+ http://alturl.com/acsit
+ #EXTINF:0,DJING Ibiza HD
+ http://www.djing.com/tv/ibiza.m3u8
+ #EXTINF:0,DJING Hot Hot Hot HD
+ http://www.djing.com/tv/hothothot.m3u8
+ #EXTINF:0,DJING Dance Floor HD
+ http://www.djing.com/tv/dancefloor.m3u8
+ #EXTINF:0,DJING Animation HD
+ http://www.djing.com/tv/a-05.m3u8
+ #EXTINF:0,DJING Classic HD
+ http://www.djing.com/tv/i-05.m3u8
+ #EXTINF:0,DJING Music HD
+ http://www.djing.com/tv/h-05.m3u8
+ #EXTINF:0,DJING Underground HD
+ http://www.djing.com/tv/u-05.m3u8
+ #EXTINF:0,USA:Vevo1 HD
+ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+ #EXTINF:0,USA:Vevo2 HD
+ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+ #EXTINF:0,USA:Vevo3 HD
+ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+ #EXTINF:0,USA:Kiss Tv
+ rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+ #EXTINF:0,ROUGE TV
+ http://rtmp.infomaniak.ch/livecast/rougetv/freeiptvlinks.m3u8
+ #EXTINF:0,Bridge TV
+ http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_BRIDGETV/variant.m3u8?version=2
+ #EXTINF:0,TV MIAMI MUSIC
+ http://74.208.152.93/music/stream3/stream.m3u8

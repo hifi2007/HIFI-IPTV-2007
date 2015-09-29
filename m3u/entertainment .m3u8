@@ -1,0 +1,284 @@
+﻿#EXTM3U
+
+ #EXTINF:0,Animal Planet [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-sth.svc.iptv.rt.ru/hls/CH_C03_ANIMALPLANET/variant.m3u8?version=2
+ #EXTINF:0,Animal Planet [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://j.mp/ZCH_C03_ANIMALPLANET_sly
+ #EXTINF:0,Animal Planet [COLOR red] Dual Audio rus/eng link 3 [/COLOR]
+ http://bit.do/bkWCc
+ #EXTINF:0,Animal Planet HD [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://bit.do/bkWAA
+ #EXTINF:0,ID Channel [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_DISCOVERYINVESTIGATION/variant.m3u8?version=2
+ #EXTINF:0,ID Channel [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://bit.do/bkWLj
+ #EXTINF:0,ID Channel [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://bit.do/bkWxM
+ #EXTINF:0,NHK World TV
+ http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_NHKWORLDTV/variant.m3u8?version=2
+ #EXTINF:0,hsn
+ rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+ #EXTINF:0,hsn 2
+ rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31
+ #EXTINF:0,QVC UK
+ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
+ #EXTINF:0,QVC PLUS UK
+ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+ #EXTINF:0,QVC Style UK
+ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+ #EXTINF:0,QVC Beauty UK
+ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
+ #EXTINF:0,Genesis Science Network
+ http://bit.do/bjVkU
+ #EXTINF:0,Discovery Channel [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYCHANNEL/variant.m3u8?version=2
+ #EXTINF:0,Discovery Channel [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://bit.do/bkWBV
+ #EXTINF:0,Discovery Sc. [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-dv.svc.iptv.rt.ru/hls/CH_C03_DISCOVERYSCIENCE/variant.m3u8?version=2
+ #EXTINF:0,Discovery Sc. [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://bit.do/bkWEf
+ #EXTINF:0,Discovery Sc
+ http://lag2.tv-mobile.org/prgi.m3u8
+ #EXTINF:0,Discovery WORLD. [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://bit.do/bkWAR
+ #EXTINF:0,Discovery HD Showcase [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://bit.do/bkWAz
+ #EXTINF:0,History [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_HISTORY/variant.m3u8?version=2
+ #EXTINF:0,History [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://bit.do/bk25V
+ #EXTINF:0,History HD [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://bit.do/bkWBc
+ #EXTINF:0,National Geographic [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-sth.svc.iptv.rt.ru/hls/CH_C01_NATGEO/variant.m3u8?version=2
+ #EXTINF:0,National Geographic [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://bit.do/bjUVU
+ #EXTINF:0,National Geographic [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://bit.do/bkWCr
+ #EXTINF:0,National Geographic wild
+ http://lag2.tv-mobile.org/prgg.m3u8
+ #EXTINF:0,Nat Geo Wild [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://88.147.129.135/hls/CH_C03_NATGEOWILDHD/variant.m3u8?version=2
+ #EXTINF:0,Nat Geo Wild [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://bit.do/bkWE7
+ #EXTINF:0,Nat Geo Wild HD [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://bit.do/bkWMZ
+ #EXTINF:0,Outdoor Channel [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-mos.svc.iptv.rt.ru/hls/CH_C05_OUTDOORCHANNEL/variant.m3u8?version=2
+ #EXTINF:0,Outdoor Channel [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://bit.do/bk2Zt
+ #EXTINF:0,Nautical channel [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://j.mp/Nautical_channel_sly
+ #EXTINF:0,Nautical channel [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://bit.do/bk26G
+ #EXTINF:0,RTG [COLOR red] Dual Audio rus/eng/turk [/COLOR]
+ http://bit.do/bkWCS
+ #EXTINF:0,iFilm English
+ rtmp://mtv.fms-01.visionip.tv/live/mtv-ifilm-ifilm-live-16x9-SDh
+ #EXTINF:0,HBO [COLOR red] some eng with subs [/COLOR]
+ http://lag2.tv-mobile.org/prgp.m3u8
+ #EXTINF:0,HBO Plus
+ rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe
+ #EXTINF:0,Fox Movies
+ http://bit.do/bjVps
+ #EXTINF:0,Movie FOX [COLOR red] some eng with subs [/COLOR]
+ http://lag1.tv-mobile.org/prgl.m3u8
+ #EXTINF:0,MovieStar [COLOR red] some eng with subs [/COLOR]
+ http://lag2.tv-mobile.org/prgc.m3u8
+ #EXTINF:0,Filmbox [COLOR red] some eng with subs [/COLOR]
+ http://lag1.tv-mobile.org/prgw.m3u8
+ #EXTINF:0,ALB UK
+ rtmp://188.138.17.8:1935/albuk/albuk.stream
+ #EXTINF:0,Pink Horror [COLOR red] some eng with subs [/COLOR]
+ http://bit.do/bkQ6L
+ #EXTINF:0,Pink Family [COLOR red] some eng with subs [/COLOR]
+ http://bit.do/bkQ8o
+ #EXTINF:0,Pink Comedy [COLOR red] some eng with subs [/COLOR]
+ http://bit.do/bkQ6Y
+ #EXTINF:0,Pink Kids [COLOR red] some eng with subs [/COLOR]
+ http://bit.do/bkQ8E
+ #EXTINF:0,Pink Premium [COLOR red] some eng with subs [/COLOR]
+ http://bit.do/bkQ69
+ #EXTINF:0,Pink Classic [COLOR red] some eng with subs [/COLOR]
+ http://bit.do/bkQ7n
+ #EXTINF:0,Pink 2 [COLOR red] some eng with subs [/COLOR]
+ http://bit.do/bkQ79
+ #EXTINF:0,Pink Action [COLOR red] some eng with subs [/COLOR]
+ http://bit.do/bkQ7T
+ #EXTINF:0,HRT 1 [COLOR red] some eng with subs [/COLOR]
+ http://bit.do/bkTpX
+ #EXTINF:0,HRT 2 [COLOR red] some eng with subs [/COLOR]
+ http://bit.do/bkTp3
+ #EXTINF:0,HRT 3 [COLOR red] some eng with subs [/COLOR]
+ http://bit.do/bk4d7
+ #EXTINF:0,HRT 4 [COLOR red] some eng with subs [/COLOR]
+ http://bit.do/bk4d8
+ #EXTINF:0,F+
+ http://77.76.140.251/prge.m3u8
+ #EXTINF:0,bTV Cinema [COLOR red] some eng with subs [/COLOR]
+ http://lag1.tv-mobile.org/prgd.m3u8
+ #EXTINF:0,Movie AXN
+ http://lag2.tv-mobile.org/prgd.m3u8
+ #EXTINF:0,Movie Cinemax
+ http://lag2.tv-mobile.org/prgb.m3u8
+ #EXTINF:0,MBC 2
+ http://63.237.48.23/ios/MBC2/MBC2.m3u8
+ #EXTINF:0,MBC 4
+ http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+ #EXTINF:0,London live
+ http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+ #EXTINF:0,cinefil france [COLOR blue] takes time to load [/COLOR] [COLOR red] Dual Audio french/eng [/COLOR]
+ http://teleclub.fr/ch03.ts
+ #EXTINF:0,premiere france [COLOR blue] takes time to load [/COLOR][COLOR red] Dual Audio french/eng [/COLOR]
+ http://teleclub.fr/ch02.ts
+ #EXTINF:0,documania france [COLOR blue] takes time to load [/COLOR][COLOR red] Dual Audio french/eng [/COLOR]
+ http://teleclub.fr/ch04.ts
+ #EXTINF:0,West france [COLOR blue] takes time to load [/COLOR] [COLOR red] Dual Audio french/eng [/COLOR]
+ http://teleclub.fr/ch08.ts
+ #EXTINF:0,ABC 7
+ rtmpe://179.43.188.15:1935/goLive playpath=rGCi7bg0Qxvs8q7Sl13l swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
+ #EXTINF:0,ABC
+ rtmpe://179.43.188.15:1935/goLive playpath=rGCi7bg0Qxvs8q7Sl13l swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
+ #EXTINF:0,BRAVO
+ rtmpe://179.43.188.11:1935/goLive playpath=bravoo505_r0dktuta swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf token=OOG17t.x#K9Vh#| pageUrl=http://miplayer.net/embedplayer.php?width=620&height=470&id=bravoo505&autoplay=true&strech=exactfit/
+ #EXTINF:0,Florida-CarolCablesTV
+ mms://207.7.154.95/G0937_002?wmcache=0
+ #EXTINF:0,Lifestyle US
+ http://state.ak.tvwmedia.net:1935/ktoo-live/_definst_/360north/playlist.m3u8
+ #EXTINF:0,Psychic Today
+ http://204.107.26.252:1935/live/1711.high.stream/index.m3u8
+ #EXTINF:0,GINX
+ http://204.107.26.252:1935/live/796.high.stream/chunklist_w1818870275.m3u8
+ #EXTINF:0,Travel [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://bit.do/bkWNZ
+ #EXTINF:0,Travel HD [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://bit.do/bk2mM
+ #EXTINF:0,MGM channel HD [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://bit.do/bkWJW
+ #EXTINF:0,CBS Reality [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://bit.do/bkWAZ
+ #EXTINF:0,Paramount Channel [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://188.17.143.39/hls/CH_C01_PARAMOUNTCHANNEL/variant.m3u8?version=2
+ #EXTINF:0,Amedia 1 [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-nw.svc.iptv.rt.ru/hls/CH_C02_AMEDIA/variant.m3u8?version=2
+ #EXTINF:0,Amedia PREMIUM HD [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://j.mp/ZCH_C05_HDAMEDIAPREMIUM_sly?.m3u8
+ #EXTINF:0,AMC [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-nw.svc.iptv.rt.ru/hls/CH_C06_MGM/variant.m3u8?version=2
+ #EXTINF:0,AMC [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://j.mp/ZCH_C06_MGM_sly
+ #EXTINF:0,AMC [COLOR red] Dual Audio rus/eng link 3 [/COLOR]
+ http://bit.do/bk2ZX
+ #EXTINF:0,TLC [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-sth.svc.iptv.rt.ru/hls/CH_C02_TLC/variant.m3u8?version=2
+ #EXTINF:0,TLC [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://bit.do/bkWBZ
+ #EXTINF:0,TLC HD [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://bit.do/bk2mh
+ #EXTINF:0,sony turbo [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-nw.svc.iptv.rt.ru/hls/CH_C01_SONYTURBO/variant.m3u8?version=2
+ #EXTINF:0,XXI [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://j.mp/ZCH_C05_TVXXI_sly
+ #EXTINF:0,SET [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-sth.svc.iptv.rt.ru/hls/CH_C04_SET/variant.m3u8?version=2
+ #EXTINF:0,Fox [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-sth.svc.iptv.rt.ru/hls/CH_C06_FOX/variant.m3u8?version=2
+ #EXTINF:0,Fox [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://j.mp/ZCH_C06_FOX_sly
+ #EXTINF:0,Fox [COLOR red] Dual Audio rus/eng link 3 [/COLOR]
+ http://bit.do/bk22w
+ #EXTINF:0,FOX LIFE [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-sth.svc.iptv.rt.ru/hls/CH_C04_FOXLIFE/variant.m3u8?version=2
+ #EXTINF:0,FOX LIFE [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://j.mp/ZCH_C04_FOXLIFE_sly
+ #EXTINF:0,FOX LIFE [COLOR red] Dual Audio rus/eng link 3 [/COLOR]
+ http://bit.do/bk22V
+ #EXTINF:0,TV 1000 ACTION [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-sth.svc.iptv.rt.ru/hls/CH_C04_TV1000ACTION/variant.m3u8?version=2
+ #EXTINF:0,TV 1000 ACTION [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://bit.do/bkWL2
+ #EXTINF:0,TV 1000 [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://bit.do/bjUWn
+ #EXTINF:0,TV 1000 [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://bit.do/bkWMu
+ #EXTINF:0,Viasat Explore [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-sth.svc.iptv.rt.ru/hls/CH_C02_VIASATEXPLORER/variant.m3u8?version=2
+ #EXTINF:0,Viasat Explore [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://bit.do/bk23M
+ #EXTINF:0,Viasat History [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-sth.svc.iptv.rt.ru/hls/CH_C02_VIASATHISTORY/variant.m3u8?version=2
+ #EXTINF:0,Viasat History [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://bit.do/bk25v
+ #EXTINF:0,Viasat Nature [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-dv.svc.iptv.rt.ru/hls/CH_C01_VIASATNATURE/variant.m3u8?version=2
+ #EXTINF:0,Viasat Nature [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://bit.do/bk23k
+ #EXTINF:0,Viasat Nature
+ http://lag2.tv-mobile.org/prgj.m3u8
+ #EXTINF:0,CNBC
+ http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
+ #EXTINF:0,euro news
+ http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
+ #EXTINF:0,BBC World News
+ http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_BBCWORLDNEWS/variant.m3u8?version=2
+ #EXTINF:0,ABC NEWS
+ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+ #EXTINF:0,SKY NEWS
+ http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+ #EXTINF:0,CNN International
+ http://lag2.tv-mobile.org/prgo.m3u8
+ #EXTINF:0,Russia Today
+ http://rt-a.akamaihd.net/ch_04@325608/720p.m3u8
+ #EXTINF:0,France 24
+ http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_FRANCE24/variant.m3u8?version=2
+ #EXTINF:0,IT4 NEWS
+ http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+ #EXTINF:0,MBC MAX
+ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+ #EXTINF:0,MBC BOLLYWOOD
+ http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+ #EXTINF:0,MBC ACTION
+ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+ #EXTINF:0,AAA FAMILY
+ http://63.237.48.23/ios/AAA_FAMILY/AAA_FAMILY.m3u8
+ #EXTINF:0,The Florida Channel
+ rtmp://webcasting.thefloridachannel.org/live/tvweb1
+ #EXTINF:0,Nasa TV HD
+ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+ #EXTINF:0,University of California TV
+ rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+ #EXTINF:0,fanatic turkey HD
+ rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
+ #EXTINF:0,Family Friendly Entertainment
+ http://54.225.64.228:1935/live/roku2/playlist.m3u8
+ #EXTINF:0,CineStreamTV HD
+ http://68.71.42.179/live/livestream1/playlist.m3u8
+ #EXTINF:0,Jim Jam [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_JIMJAM/variant.m3u8?version=2
+ #EXTINF:0,Jim Jam [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://bit.do/bk245
+ #EXTINF:0,NICK JR [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-sib.svc.iptv.rt.ru/hls/CH_C02_NICKJUNIOR/variant.m3u8?version=2
+ #EXTINF:0,NICKELODEON [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-sth.svc.iptv.rt.ru/hls/CH_C03_NICKELODEON/variant.m3u8?version=2
+ #EXTINF:0,NICKELODEON [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://bit.do/bkWGF
+ #EXTINF:0,NICKELODEON HD [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://bit.do/bkWKR
+ #EXTINF:0,Boomerang [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_BOOMERANG/variant.m3u8?version=2
+ #EXTINF:0,Boomerang [COLOR red] Dual Audio rus/englink 2 [/COLOR]
+ http://j.mp/ZCH_C05_BOOMERANG_sly
+ #EXTINF:0,cartoon network some english
+ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+ #EXTINF:0,CARTOON NETWORK [COLOR red] Dual Audio rus/eng [/COLOR]
+ http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_CARTOONNETWORK/variant.m3u8?version=2
+ #EXTINF:0,CARTOON NETWORK [COLOR red] Dual Audio rus/eng link 2 [/COLOR]
+ http://bit.do/bkWDR
+ #EXTINF:0,SOUTH PARK 24/7
+ http://alturl.com/rcegk
+ #EXTINF:0,simpsons stream
+ http://alturl.com/vhmzx
+ #EXTINF:0,Baby TV
+ http://fe-mos.svc.iptv.rt.ru/hls/CH_C01_BABYTV/variant.m3u8?version=2
