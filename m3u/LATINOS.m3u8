@@ -1,0 +1,104 @@
+﻿#EXTM3U
+
+
+
+ #EXTINF:0,ULTRA FILM HD LATINOS
+ http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
+ #EXTINF:0,ULTRA FILM 2 HD LATINOS
+ http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/index.m3u8
+ #EXTINF:0,SYFY LATINO
+ http://201.161.59.4/syfy.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,GOLDEN EDGE LATINO
+ http://201.161.59.4/golden.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,FOX LATINOS
+ http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,CANAL 5 SPAIN LATINOS
+ http://201.161.59.3/canal5.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,CINEMAX LATINOS
+ http://201.161.59.7/cinemax.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,SPACE LATINOS
+ http://201.161.59.7/space.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,SONY LATINOS
+ http://201.161.59.6/sony.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,WARNER LATINO
+ http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,De pelicula LATINOS
+ http://iptv.latino-webtv.com/de-pelicula.m3u8
+ #EXTINF:0,Azteca7 LATINOS
+ http://201.161.59.3/azteca7.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,FOX SPORTS LATINOS
+ http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,Foro tv LATINOS
+ http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,OnceTV LATINOS
+ http://201.161.59.3/oncetv.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,CADENA 3 LATINOS
+ http://201.161.59.3/cadena3.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,CANAL 52 MX LATINOS
+ http://201.161.59.4/canal52.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,WOBI LATINOS
+ http://201.161.59.4/wobi.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,LIFETIME LATINOS
+ http://201.161.59.7/lifetime.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,FOX LIFE LATINOS
+ http://201.161.59.7/foxlife.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,E LATINOS
+ http://201.161.59.6/e.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,DISNEY XD LATINOS
+ http://201.161.59.4/disneyxd.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,NICK LATINOS
+ http://201.161.59.6/nick.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,CARTOON NETWORK LATINOS
+ http://201.161.59.6/cartoonnetwork.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,Gala tv LATINOS
+ http://201.161.59.3/galavision.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,FX LATINOS
+ http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,HISTORY LATINOS
+ http://201.161.59.7/history.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,TYC SPORTS LATINOS
+ http://201.161.59.4/tycdeportes.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,CANAL DHE LATINOS
+ http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,MILENIO TELEVISION LATINOS
+ http://201.161.59.3/milenio.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,GOLDEN LATINOS
+ http://201.161.59.4/golden.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,CINE LATINO
+ http://201.161.59.4/cinelatino.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,UNICABLE LATINOS
+ http://201.161.59.6/unicable.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,DISTRITO COMEDIA LATINOS
+ http://201.161.59.6/clasicotv.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,BANDAMAX LATINOS
+ http://201.161.59.4/bandamax.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,RITMOSON LATINOS
+ http://201.161.59.4/ritmoson.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,TELEHIT LATINOS
+ http://201.161.59.7/telehit.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,ESPN LATINOS
+ http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,ESPN 2 LATINOS
+ http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,ESPN 3 LATINOS
+ http://201.161.59.4/espn3.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,CANAL DE LAS ESTRELLAS LATINOS
+ http://201.161.59.3/canal2.isml/manifest(format=m3u8-aapl).m3u8
+ #EXTINF:0,CHILE MEGA LATINOS
+ http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b400.m3u8
+ #EXTINF:0,CHILE MEGA HD LATINOS
+ http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+ #EXTINF:0,CHILE TV LATINOS
+ http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+ #EXTINF:0,AMERICA TV HD LATINOS
+ http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+ #EXTINF:0,t Enlace Juvenil LATINOS
+ http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+ #EXTINF:0,t ESNE LATINOS
+ http://bit.do/bk4ct
+ #EXTINF:0,Telemetro Panama LATINOS
+ http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
+ #EXTINF:0,Canal 4 Merida Mexico LATINOS
+ rtmp://159.16.243.10/live/canal4/canal4
+ #EXTINF:0,TV MAS Mexico LATINOS
+ rtmp://50.7.98.234/rtv/videortv

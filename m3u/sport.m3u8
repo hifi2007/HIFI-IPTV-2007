@@ -245,3 +245,5 @@
  http://lihattv.wha.la/jhos/fight/-/playlist.m3u8
  #EXTINF:0,Telekanal Futbol
  http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
+ #EXTINF:0,WWE
+ rtmp://89.248.169.35/live playpath=wwen swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys1&vw=600&vh=450
