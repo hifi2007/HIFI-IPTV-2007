@@ -1,0 +1,32 @@
+﻿#EXTM3U 
+
+#EXTINF:-1  group-title=hbo east
+http://bit.do/hifi2007live
+
+#EXTINF:-1  group-title=hbo2 east
+http://bit.do/hifi2007streamingtv
+
+#EXTINF:-1  group-title=HBOSignatureEast
+http://bit.do/hifi2007streams
+
+#EXTINF:-1  group-title=HBOWest
+http://bit.do/hifi2007streams1
+
+#EXTINF:-1  group-title=HBOWest2
+http://bit.do/hifi2007livestreaming2
+
+#EXTINF:-1  group-title=HBOFamilyEast
+http://bit.do/hifi2007livetv
+
+
+
+
+
+
+
+
+
+
+
+
+
